@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Todds Recipe Book</title>
+        <meta charset="utf-8">
+        <style>
+        body{
+            background-color:yellow;
+        }
+        h1{
+            color:blue;
+        }
+        ul{
+            color:blue;
+        }
+     h2{
+         color:maroon;
+     }
+     ul{
+         color:rgb(227, 20, 227);
+     }
+        </style>
+    </head>
+    <body>
+       
+        <h1>Todd's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <ul><a href="#recipe-1">Recipe #1</a></ul>
+        </ol>
+        <ol>
+            <ul><a href="#recipe-2">Recipe #2</a></ul>
+        </ol>
+        <ol>
+            <ul><a href="#recipe-3">Recipe #3</a></ul>
+        </ol>
+        
+        <h2 id="recipe-1">Recipe #1</h2>
+        <ul>
+            <li>Time: 48 hours</li>
+            <li>Serves: 1/2</li>
+            
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <td> One cat<td>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        </ul>
+         <p>Sit down and wait for your cat to come to you. First you will wait about 46 hours until the cat is proofed but you have to wait about 2 more hours for the loaf to be perfectly cooked. Voila, cat loaf.
+</p>
+         <h2 id="recipe-2">Recipe #2</h2>
+        <ul>
+            <li>Serves: 1</li>
+            
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <td> 1 pound of lean ground pork
+1/4 cup of cooked white rice
+1/4 cup of cooked sweet potato
+1/4 teaspoon of taurine supplement<td>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        </ul> 
+         I recommend baking the pork until fully cooked and tender. Once cooked, shred the pork or chop it into bite-sized pieces appropriate for your cat. Boil the rice according to the instructions on the packaging. Boil or bake the sweet potato with no added ingredients like oil, salt or pepper. Mash the sweet potato and mix it with the rice and taurine supplement. Combine the pork and the rice mixture and store it in an airtight container in the refrigerator for up to three days. You can also freeze it for up to two months. Feed your cat about 1/4 cup of this recipe per day, depending on their weight and activity level.
+          <h2 id="recipe-3">Recipe #3</h2>
+        <ul>
+            <li>Serves: 10</li>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <td> 2 pounds of boneless, skinless chicken thighs
+4 eggs
+1/4 cup of water
+2 teaspoons of fish oil
+400 IU of vitamin E
+50 mg of vitamin B complex
+2,000 mg of taurine
+1/4 teaspoon of iodized salt
+1/4 cup of chopped kale
+1/4 cup of chopped spinach <td>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+            
+        </ul>
+        Preheat the oven to 350°F and lightly grease a baking dish.
+Cut the chicken into small pieces and spread them evenly on the prepared baking dish.
+Bake for 25 minutes or until the chicken is cooked through and no longer pink.
+Let the chicken cool slightly and transfer it to a food processor or blender.
+Add the eggs, water, fish oil, vitamin E, vitamin B complex, taurine, and salt and blend until smooth.
+Add the kale and spinach and pulse a few times to chop them finely.
+Transfer the mixture to an airtight container and refrigerate for up to 3 days or freeze for up to 3 months.
+Feed your cat about 1/3 cup of this recipe per day, depending on their weight and activity level.
+        
+       
+        
+    <p><em>Source: <a href="https://topdogtips.com/simple-homemade-cat-food-recipe/">Some recipes websites</a></em></p>
+    
+    </body>
+</html>
